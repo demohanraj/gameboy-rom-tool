@@ -1,0 +1,10 @@
+/build/
+/out/
+/cmake-build-*/
+.vs/
+.idea/
+*.user
+*.suo
+*.gb
+*.gbc
+*.toolproj/
